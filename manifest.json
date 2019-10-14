@@ -1,11 +1,11 @@
 {
-  "name": "ERP Shop",
-  "short_name": "ERP Shop",
+  "name": "erp-mercentile",
+  "short_name": "erp-mercentile",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
-  "display": "fullscreen",
-  "scope": "/https://boring-blackwell-575301.netlify.com/",
-  "start_url": "/https://boring-blackwell-575301.netlify.com/?source=pwa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",

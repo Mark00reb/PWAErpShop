@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.ca2a5245899fef218c02.js",
+        "/main.3415d795eb99fcb110b2.js",
         "/polyfills.50080cb4907bc77b3cc8.js",
         "/runtime.ec2944dd8b20ec099bf3.js",
         "/styles.275d09fe75d82b338464.css"
@@ -65,7 +65,8 @@
         "/assets/images/The Althorp Collectors 4 x Watch Chest Limited Edition 1 of Only 2 2.jpg",
         "/assets/images/The Althorp Collectors 4 x Watch Chest Limited Edition 1 of Only 2.jpg",
         "/assets/images/default-image.png",
-        "/assets/images/icon ERP.png"
+        "/assets/images/icon ERP.png",
+        "/assets/images/shopping-cart.png"
       ],
       "patterns": []
     }
@@ -117,9 +118,10 @@
     "/assets/images/The Althorp Collectors 4 x Watch Chest Limited Edition 1 of Only 2.jpg": "71b7884f311ce057fdacf28b5c59be2a072c74ba",
     "/assets/images/default-image.png": "16833a21104966bce88e01fbfebde657aff780ba",
     "/assets/images/icon ERP.png": "ff951f947510617a68ad377e8b3b44a5cfc841d3",
+    "/assets/images/shopping-cart.png": "9dfe2633aace552b7043e170fdf695b51dc45f85",
     "/favicon.ico": "0b28cccd50ae32cea0eebdcc8c16f4d89050ef0d",
-    "/index.html": "87f6383308593f44c1e58fdfa5fee7d314306c13",
-    "/main.ca2a5245899fef218c02.js": "2775c6574c8ecf63cb83be23685453753c2745f0",
+    "/index.html": "bc48cc75a141f0f308718925efebc5fa983e8b73",
+    "/main.3415d795eb99fcb110b2.js": "74aa9428fae94961f87d5a8057615efd0669eb7b",
     "/polyfills.50080cb4907bc77b3cc8.js": "1df89ded747e631033ec99209de6b069f8513c35",
     "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.275d09fe75d82b338464.css": "53e2759fb12772cedbb85873188bd0cdd3e078d9"
